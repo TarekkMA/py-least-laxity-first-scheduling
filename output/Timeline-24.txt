@@ -1,0 +1,69 @@
+laxity:T2:7.0
+min: T2:7.0
+t=[12.0	] -> T2
+laxity:T2:7.0 T3:9
+min: T2:7.0
+t=[12.5	] -> T2
+laxity:T2:7.0 T3:8.5
+min: T2:7.0
+t=[13.0	] -> T2
+laxity:T1:2.5 T3:8.0
+min: T1:2.5
+t=[13.5	] -> T1
+laxity:T1:2.5 T3:7.5
+min: T1:2.5
+t=[14.0	] -> T1
+laxity:T1:2.5 T3:7.0
+min: T1:2.5
+t=[14.5	] -> T1
+laxity:T3:6.5
+min: T3:6.5
+t=[15.0	] -> T3
+laxity:T3:6.5
+min: T3:6.5
+t=[15.5	] -> T3
+laxity:T3:6.5
+min: T3:6.5
+t=[16.0	] -> T3
+laxity:T3:6.5
+min: T3:6.5
+t=[16.5	] -> T3
+laxity:T3:6.5
+min: T3:6.5
+t=[17.0	] -> T3
+laxity:T3:6.5
+min: T3:6.5
+t=[17.5	] -> T3
+laxity:T1:2.5
+min: T1:2.5
+t=[18.0	] -> T1
+laxity:T1:2.5
+min: T1:2.5
+t=[18.5	] -> T1
+laxity:T1:2.5
+min: T1:2.5
+t=[19.0	] -> T1
+laxity: Empty
+t=[19.5	] -> NONE
+laxity: Empty
+t=[20.0	] -> NONE
+laxity: Empty
+t=[20.5	] -> NONE
+laxity:T2:7
+min: T2:7
+t=[21.0	] -> T2
+laxity:T2:7.0
+min: T2:7.0
+t=[21.5	] -> T2
+laxity:T2:7.0
+min: T2:7.0
+t=[22.0	] -> T2
+laxity:T1:2.5 T2:7.0
+min: T1:2.5
+t=[22.5	] -> T1
+laxity:T1:2.5 T2:6.5
+min: T1:2.5
+t=[23.0	] -> T1
+laxity:T1:2.5 T2:6.0
+min: T1:2.5
+t=[23.5	] -> T1
